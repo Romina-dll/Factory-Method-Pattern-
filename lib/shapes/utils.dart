@@ -1,7 +1,7 @@
 import 'dart:math';
 
-import 'package:factory_method/shap.dart';
-import 'package:factory_method/shap_factory.dart';
+import 'package:factory_method/shapes/shap.dart';
+import 'package:factory_method/shapes/shap_factory.dart';
 import 'package:flutter/material.dart';
 
 class Utils {

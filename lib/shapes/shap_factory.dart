@@ -1,6 +1,6 @@
 import 'dart:math';
 
-import 'package:factory_method/shap.dart';
+import 'package:factory_method/shapes/shap.dart';
 import 'package:flutter/material.dart';
 
 ///enumeration of available shape ids to be used when calling the factory method
